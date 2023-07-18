@@ -1,0 +1,20 @@
+package SobreStatic.exemploPratico;
+
+public class Produtos {
+
+	private String nome;
+	private double peso;
+	private int contadorElementos;
+	private static int contadorObjetos;
+	
+	public Produtos(String nome, double peso) {
+		this.nome = nome;
+		this.peso = peso;
+	}
+	
+	
+	
+	
+	
+	
+}
