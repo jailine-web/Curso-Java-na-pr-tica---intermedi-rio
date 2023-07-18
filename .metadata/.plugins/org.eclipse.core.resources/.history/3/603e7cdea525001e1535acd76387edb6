@@ -1,0 +1,18 @@
+
+public class SobreStatic {
+
+	int contadorObjetos;
+	
+	public SobreStatic() {
+		contadorObjetos ++;
+	}
+	
+	public static void main(String[] args) {
+		
+		SobreStatic ss1 = new SobreStatic();
+		SobreStatic ss2 = new SobreStatic();
+		
+		System.out.println(ss1.contadorObjetos);
+		System.out.println(ss2.contadorObjetos);
+	}
+}

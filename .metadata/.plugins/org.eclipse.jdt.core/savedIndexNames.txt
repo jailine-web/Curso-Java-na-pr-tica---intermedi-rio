@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Jai\Documents\Java na prática - intermediário\.metadata\.plugins\org.eclipse.jdt.core
+3029833764.index
+1456710951.index
+1865797976.index
