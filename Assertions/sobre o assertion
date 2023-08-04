@@ -1,0 +1,8 @@
+>> testa o código durante a execução similar ao if: utilizado para testes de software a exceção 
+não é tratada. O assert não substitui o if else nem os tratamentos de exceção, ele é utilizado 
+para teste de software.
+
+ativar o assertion:
+run --> run configurations --> seleciona a classe desejada --> aba 
+arguments --> campo vm arguments --> insere -ea --> aplica --> fecha.
+		
